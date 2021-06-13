@@ -14,6 +14,7 @@ import openpyxl
 ```
 # 需要准备的文件
 + excel表格：内容为电影名。如图所示：
+
 ![](http://typora.joyboy2.top/image/20210613222457.png)
 
 # 注意事项
